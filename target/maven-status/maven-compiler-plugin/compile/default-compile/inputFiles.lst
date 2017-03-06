@@ -1,0 +1,12 @@
+/Volumes/Personal/certifications_knowledge/spring/alarmservice/src/main/java/com/ge/prdix/solsvc/training/alarmservice/dto/AlarmEvent.java
+/Volumes/Personal/certifications_knowledge/spring/alarmservice/src/main/java/com/ge/prdix/solsvc/training/alarmservice/repository/IAlarmEventEntityRepository.java
+/Volumes/Personal/certifications_knowledge/spring/alarmservice/src/main/java/com/ge/prdix/solsvc/training/alarmservice/jpa/init/InitAlarmServiceData.java
+/Volumes/Personal/certifications_knowledge/spring/alarmservice/src/main/java/com/ge/prdix/solsvc/training/alarmservice/dto/HospitalDTO.java
+/Volumes/Personal/certifications_knowledge/spring/alarmservice/src/main/java/com/ge/prdix/solsvc/training/alarmservice/entity/AlarmEventEntity.java
+/Volumes/Personal/certifications_knowledge/spring/alarmservice/src/main/java/com/ge/prdix/solsvc/training/alarmservice/jpa/DatabaseConfigCloud.java
+/Volumes/Personal/certifications_knowledge/spring/alarmservice/src/main/java/com/ge/prdix/solsvc/training/alarmservice/HospitalAlarmService.java
+/Volumes/Personal/certifications_knowledge/spring/alarmservice/src/main/java/com/ge/prdix/solsvc/training/alarmservice/PredixHospitalAlarmServiceApplication.java
+/Volumes/Personal/certifications_knowledge/spring/alarmservice/src/main/java/com/ge/prdix/solsvc/training/alarmservice/CorsFilter.java
+/Volumes/Personal/certifications_knowledge/spring/alarmservice/src/main/java/com/ge/prdix/solsvc/training/alarmservice/dto/Patient.java
+/Volumes/Personal/certifications_knowledge/spring/alarmservice/src/main/java/com/ge/prdix/solsvc/training/alarmservice/repository/IPatientEntityRepository.java
+/Volumes/Personal/certifications_knowledge/spring/alarmservice/src/main/java/com/ge/prdix/solsvc/training/alarmservice/entity/PatientEntity.java
